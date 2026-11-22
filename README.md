@@ -39,7 +39,7 @@ The platform brings resume management, application tracking, and AI-powered resu
 
 | Category | Technologies |
 |---|---|
-| Frontend | React.js, Vite, Ant Design |
+| Frontend | React.js, Vite|
 | Backend | Node.js, Express.js |
 | Database | MongoDB, Mongoose |
 | AI Integration | Google Gemini API |
